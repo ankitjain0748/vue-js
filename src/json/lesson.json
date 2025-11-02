@@ -1,0 +1,154 @@
+{
+    "status": true,
+    "message": "Teachers fetched with reviews and lessons",
+    "data": [
+        {
+            "_id": "68cf81d919df8c9529333239",
+            "userId": {
+                "_id": "68cf81d819df8c9529333237",
+                "name": "YUI",
+                "email": "peachbeah.mame85@gmail.com",
+                "role": "teacher",
+                "nationality": "Japanese",
+                "time_zone": "Asia/Tokyo",
+                "block": false,
+                "profile_photo": "https://student-teacher-platform.sgp1.digitaloceanspaces.com/uploads/33f030e8-957d-438c-88cf-84c967f792b1-WIN_20250929_08_35_28_Pro.jpg",
+                "email_verify": true,
+                "deleted_at": null,
+                "createdAt": "2025-09-21T04:40:56.940Z",
+                "updatedAt": "2025-09-28T23:46:35.544Z",
+                "__v": 0
+            },
+            "description": "こんにちは😊私のレッスンでは日常会話の練習がメインです！\r\n中級以上の方は、日本のアニメや音楽、みなさんの好きな事を知っている日本語をたくさん使って、お話しをしましょう！\r\n上級者の方は、日本語で書かれたニュースを読みながらディスカッションもできます👍\r\n日本語を初めて勉強したい方も大歓迎です😊\r\n楽しく日本語を勉強しましょう🌈",
+            "gender": "F",
+            "experience": null,
+            "city": null,
+            "intro_video": "https://youtu.be/jiVhkfvk0nI",
+            "qualifications": null,
+            "languages_spoken": [
+                "Japanese",
+                "English"
+            ],
+            "ais_trained": true,
+            "japanese_for_me_approved": false,
+            "admin_approved": true,
+            "documentlink": "",
+            "tags": [
+                "Travel",
+                "Business",
+                "Speaking"
+            ],
+            "access_token": "06996e45c17eb93d5af70053d07b7f66:6fb8c32c535db66e430142bdb1657d65:1576403c22ed4f3986d5d075753534b02972b7b33e450afbde8e0904c668836740fb0565c84870d7fd676cedf858927dcd26b4ee178b57cb36966765647c5fae76857aa81262a9481ebfd3ccba6586dca3cb18372a7d1328c6c107ed29e1b2f51525aa83f78c027cebdb713cc86b36602dc4288b14821e3b267b43b375f0cf667576eba9393a0c51d511a878c72c24ce460d673499d341406cc96156d696b75f5f54a1df3b6b6531cdf866f9d89bcda66466445e876d0fb3683c604a908537ccc4fbb3b29e6fa2502d26645d1fe5e2690b1e11357a5d9fa83206771b2724e05bbc929381fbf6396167fc6a5bcada5b67ed13b5bfcc6063abeb112cf60dc2db88300e511ae4711a88064e45f9e76c6cf40a051e0b66885a329221f1517b089f69b61dab533be761bf36373aca2353586533c8d6ca3b54e5a102b630963aa7226c27447220ef9e05d7a9a699fee7642d54b28eecd83d784e16258abc47e190824376047dcbbc9120abbcd31c4c11616ca773c531f616c6b62010115d3d16739e32aecb0e80091e9de5472d793c64e498d0fa4d27f0273df506b69c9fedbf40407cb2b41526dc21015ee4a4391ed5ef8dac3d8866ea8615f45d8e070cdb7d8b24ccfd50127ec7ff90ec1999948d800a71adb837b13f3719f023b2206d5c4a9776ee0ae75846ce73c208ea0f465df7bfa0076dca3609b0c4971dd79e7aee8e1242396cb64da914b87cd249761658e87e02bce6284fb45933abf7fd29177300fe6e18f8050e1d53be14bcf57b013a6f68e4e72bbb67162229892dd8dc3c12299b7f8d45978718a5ca2b33579a853a4fc5b6c3b2b0ddcf19596d0d2edabd2b2072fbdceaf2c8871180f60492f78696d46172ca2429178e46cbbc83",
+            "refresh_token": "6522a9811fe25b90638f74c347dbc155:57814613455ab9e8618864dad7d35734:745ca100970a7962be839c1308aaeefd75dead11b524caafdda16727d03e593aeff246cf00b8d6d6295dcdbcb23858e650acd2d6832bcfb58dd33bc324588ccd25ef181d417e59d27afbf1c177e3e409fbe0c8a2b35d7097965339249a71e05ac5e81a252571bb72b4de3ee7b7b4ea4a7911ad19277bbb9d7e45b9c96939dbfce477849f068e84dc1b131c9e69d8f36c736959c0c50ca86d8f1536033b533283228b65f20feb587f0dbd2768c236a25f95ac5a7810c65237690b6f91bf7977ed7055fd8ca2e9da5bbadff23a25fbad62b517f592ba6d9180cd0ec4a754f9fff7c1a7670ed9e96c6298c5b215d159792f529441d6c1b4161e14739fc5d955cfc51cbdcd5ad0bbcea09d429348257c4066a12ad0503b35406cd36049f806645c3253517a1c637292888c7212bb6803fd8d05eb67d8ce9b26a825e8033500c8246c0583ecb9d318a1dc151718432fa0f6f050ec4c050fe5e17f281aa36dfdc2d433ad4c49a431e31922f2bdbee7860df861676cdc15b10d88a15b7502fa64672cdcca2d0451a72288a3d8b1bf27e79eba6f37050e039160ac735132ad57bc5feed89d2f941ec586e7b0a53c7cf6712d43997331d1ba5b8379b51279070d7bfd1ae66520b70e61c75daa5df910d67992f7725261499ea753367bd22bc2f8ad29ff0b11114e5303ee85ac6689c87eb4ab2922c8e0dd18b6273c6f2da88ad6f00405d570eaeffd5ecf602023a901c23784e8205acc2f4e9b1ec9182aadac57c10b5ad58cb40c6f11b52c34ce41718b0afc78230d4584c47da7b3b8f057eb75654528dfca4c2f0a52c546d96770854b3e99d91ce28e57694275300ebf321614f7512a2533ba6833c7df5ae8d5dae0676f831e08820b96d2b15a4d2b",
+            "createdAt": "2025-09-21T04:40:57.020Z",
+            "updatedAt": "2025-11-02T10:02:21.446Z",
+            "__v": 0,
+            "featured": 1,
+            "lowestLesson": {
+                "_id": "68d9ccb441dce1ca3bddd059",
+                "price": 32,
+                "duration": 60
+            },
+            "totalLessons": 2
+        },
+        {
+            "_id": "68d8e38041dce1ca3bdd64ea",
+            "userId": {
+                "_id": "68d8e38041dce1ca3bdd64e7",
+                "name": "Asami",
+                "email": "me.ku.family@gmail.com",
+                "role": "teacher",
+                "nationality": "Japanese",
+                "time_zone": "Asia/Tokyo",
+                "block": false,
+                "profile_photo": "https://student-teacher-platform.sgp1.digitaloceanspaces.com/uploads/1fbf902e-d5ae-4dab-aa5b-78241ff24c4c-IMG_2801.JPG",
+                "email_verify": true,
+                "deleted_at": null,
+                "createdAt": "2025-09-28T07:28:00.110Z",
+                "updatedAt": "2025-10-05T14:28:35.755Z",
+                "__v": 0
+            },
+            "description": "Hi🐶✨My lessons are perfect for those who want to practice a lot of conversation or expand their vocabulary. You can learn not only grammar and vocabulary but also natural expressions used in daily life. \r\nI always tailor the lessons to each student’s individual goals, and I’ll support you step by step. \r\nMy motto is to make learning fun together, and I’m really looking forward to talking with you！",
+            "gender": "F",
+            "experience": null,
+            "city": null,
+            "intro_video": "https://youtu.be/pkTErHEtUSE",
+            "qualifications": null,
+            "languages_spoken": [
+                "Japanese",
+                "English"
+            ],
+            "ais_trained": true,
+            "japanese_for_me_approved": false,
+            "admin_approved": true,
+            "documentlink": "",
+            "tags": [
+                "speaking",
+                "conversation"
+            ],
+            "access_token": "9058ee953b593f63841332fc66621c34:c0e288b8e7b610570d46c7ac5101efad:2513d42205ab5912f0d633a4bb25f2996af2f9aef15bd37dd0716bf9fd00856ba36f633551d165d97b09c618bbd30080f4c763c619a21e0a0bc38b1672e430a510643ebe69fa3085742ca50e9c3ec19844cff0e0239ad3284561983f1ae36f946b82ac6ec7fbfc86c2adce11742415682717e600c30d0e4a65236b729c5e957ae490e6bcbeba3e5b6d5821c5104b80df3c5a865c87634c63670110a016694d3f076c0dc2f3194dccbc3e25579235d146fe0ac13b8e34f206b259c502ad5c8e88d220efd7a7b81d35e3ed4dcd8d70aa7dbc2436ea3ee9473007cec27cb51cb8e0a89c3059633bd2bd212b047d8fc573103b419319ada4a7526fef3f1e7f133e87f7d2b6d5badaf80aeee2775396ca435ba1ebab33b0238a905972e0de6d69db0785222b69b267563f0bd993bffaf7bef125c3daee22d1414dc9865f77ade29ff8be2c80ac44bbbf29bafb28dd8b40dfad75d680533a46ace318d48167483867617eebb4d08de2f899fb96fec5f338a46d825a4e8c451829cef06967deda2f17559689bd3ad7ada2db134c2299a4ad9276b530998e9394fc94ec5796c4ad806120097911691f9a954bc275c18032e33cec4db3a7a83a747682b12abdf2ff9c70056ac4bc42bc29abfc9a86de61db96d578b0e869855e511c23055d55cc00bc0407228b96e5d235386f231adfb0b00b4f8cad6cb59a5e54cc55e814e6d1d370b53f60e457afd683144662fba297ad8f1637f0efb277c673e3f1a9550732d5a8130905f26733767943ef377a27905d1eb592e4300842c6c8ebb689e5a978de82febee90c1908686f007786ca163b766d4a3f00c0a25bf871ebcb7d8238d0ae1e2ef1ff5976b6f2eefdf5a1e67cbc4f538f5a30f6e8574eb4d301",
+            "refresh_token": "0cd686b6f25a29c3ca71e4b54c6bc079:3da717fe095608ecd8aa1cc2f41db38b:36c3357d0bf10618df5fda0b48ad4ca9083d853402b304757e3abea69cc53a8313ab694ef807bda612d39f37249ba7618f65e6326a83e71cff7feab9040a4f9f00b44eedbed4e6d8a19618e89aef1eceb42fe16f3c43b87caf5b18d75bba4e570be8d6387b911702768cad97b628c33fed4b27c963946b5f482c27ec866bcd8aecaa7de5922260626a8801dde7f5dc069cf6384ca04dc3b8ab799633179603c00dc61d12033e8777ca8ccfbd67623292049810f82d081e0919ce9e47be180f710fcfbb82dc4f623b238c1f65327c211a533a0657858dc22f5bbf739e35ec51f7d416f916c46bbb2653a84961b39c30689d5fdc28389f708aface7715304231104403578a525368fc94435b961b40f6a6b223261153776311d7e1dcec27dc7b4ae76c5f31d35b81d07ab05eb5efe9c7bf0c3c2654bf31353b07ef831002a808863b2ba0a033c13af415c4f54c8f68c8a00285e8737f0ccec390f4c2d2d6cab683f5485462239bcb3c52470c799d79a25d26220a7558ce272b633128f514db13fb0908d60207ade7879f9ab70e3946117d67556d06b80d66acf74c4ac921d8e3f6706b3b706b47cbe1366b6868257eb353ac1fc6b5b53262592d064fb9f1120d8da477c4316c738ee6ea4b81abd0d63591095b06000b3ccde2f18276bb515a33526ce0dee7d3d26954c5b34372f5ae386bc9f9713bc5e2393ac338f2281a494a3814c6e7b2140ff75401d983f5fdf9ff219942fdf9773f5289dab1fe1bc00f1f10b5319688651be2b6379cf15ddd9d8b1ae8a5a6f3e737ce2bec67d122149c954fd3ad0cfab1677207ccfe4c5f514f81f486c2757be5c367dcfbad98fcfb0f17f3347850dadd295d0fa6abac650bc88fa1d24db4976af819a8",
+            "createdAt": "2025-09-28T07:28:00.187Z",
+            "updatedAt": "2025-11-02T10:02:21.516Z",
+            "__v": 0,
+            "featured": 2,
+            "lowestLesson": {
+                "_id": "68e27f257040237e9830e78e",
+                "price": 30,
+                "duration": 60
+            },
+            "totalLessons": 1
+        },
+        {
+            "_id": "68d5366041dce1ca3bdb739a",
+            "userId": {
+                "_id": "68d5366041dce1ca3bdb7398",
+                "name": "TOMIKO",
+                "email": "tomiko.sensei.7@gmail.com",
+                "role": "teacher",
+                "nationality": "Japanese",
+                "time_zone": "America/Chicago",
+                "block": false,
+                "profile_photo": "https://student-teacher-platform.sgp1.digitaloceanspaces.com/uploads/04bf9d10-edc9-4bbd-846c-db7c04925b16-TOMIKO.JPG",
+                "email_verify": true,
+                "deleted_at": null,
+                "createdAt": "2025-09-25T12:32:32.147Z",
+                "updatedAt": "2025-10-03T22:30:39.351Z",
+                "__v": 0
+            },
+            "description": "Hello! My name is Tomiko. Let's learn Japanese together and have a great time! 😊\r\nI will guide you in a friendly and easy-to-understand way, tailored to your Goals!  Take your Japanese fluency to the next level!  I am looking forward to seeing you! 🌸🌸🌸",
+            "gender": "F",
+            "experience": null,
+            "city": null,
+            "intro_video": "https://youtu.be/rzouDng9_Pw",
+            "qualifications": null,
+            "languages_spoken": [
+                "Japanese",
+                "English",
+                "Spanish"
+            ],
+            "ais_trained": true,
+            "japanese_for_me_approved": false,
+            "admin_approved": true,
+            "documentlink": "",
+            "tags": [
+                "Beginner",
+                "Traveling",
+                "Speaking",
+                "KIDS"
+            ],
+            "access_token": "efd408da9ee29f4aa2122f1df94faac6:634a39854313dad2126a6ce08ce88e36:e2bb720ebb7e102dae4d8a3c8fd344400e3ff22d55b392cce90b50379f78c620b2a9a6dd10e77cffc03a94753f0eb925e70c24fcbc0f2ec67371b7aba07399dc64b914459b93fd7ed228a939987f9a87d2fe64e531d25388a2ff7f936246ee3ce35bfad081cd01d4cc9319c5442b90f5d76768f3f0987a129089586f2a1afc87e5e432b8e41d01dc5521e3f8a8f6db0337f03ef78b67571aa367f4ad42c0f1c0a7f9d29dbf93d88a0a84ffb03a7972f83665e43cda86c553e3057eb859ec7f83be635301d9eff583ac00ddb0c2bb9af6f1c8e7d78e17b6927718ff07b3e375da7d1932ec863aad7e287864fbf2853b7c0a5efd7f51ab525021604da24334a087c4ed3e85c279f4385dc19631444d3d195d263e48cc379e9e803ed86d98ab586c7e948c43b7e549ce6fe2cbe6c13ab79af3e8d7573368b190ed31a19c970fecf1e4466f8df6b15f960921dc06c67c5521e3f7cac2d8e327cad1370f66af540a483c58581688916d59044a8030078f45952013d85e6f6a6388cecb18726f572e9c6de0ce9ecc7e65db60e205d592c3c5fdfa112755a615e3bfda360b7d94b436f9f8fbf98071117b795e2e530d70a90277114c1e8c5eabbda963265d2c30120fa7e8f8f8b0190777ec520a044bbdd0b577f393cbb39208a22475f593e5d907b5fe052dbca76a9f4e0d33bd7fb573d21e733d3292352508383edeeaef54376a0a4a8671a390dc8eb30796f8567d55a30cb46be555b8e85510c552b37b94e20ae7258a1078c40e008f73c620ab7d754110b0817efe6844f0a247090b90d28a5d0e280bb327887a22109b1977c0ccaaa8ac811c0c580c7a7e5daa317b1ea0167600aed837a1b1a834a369e2635f82657e2892b55221ec50b75c49",
+            "refresh_token": "cafb9eab1dda199ceb06549d01192127:81bd1eb3eb3c652ee3878f3aee925261:017350d8dd52ef01fd84475271642bb2a43b61fc8db877f352a2e263d64c0e494b397df71dd48c6223cc0c5351397856578aeafebc4364a8fa620666d52fbb6b941b70fe1f0accfc3b1b7f3ce59922b6ce919c7132506470e6ed22c43e620d5f26c9ba0de059de37b9ab540a3844ff81794b38f26c0a839aadb9056c3f52068488d06a64a087a7dfa9b8dbf4ead8a709f15a13896b51562b51f450e9a0743be0fa1d8bbc75d2e7c765470a29ba7aba42799c90fe5fea41fa392bf4b035004f7160a866d18161317c91106c8a81dcf74b684efa3c2430914bf538004b2ba09e048afd6498b996945f80166b5729b493a15f61766b27275a9057f6ef7873a77a38dec7effeb603909c988dd5fa5537a3640d70371f18f77896f22269676b8d1639d1aa7270c4dbc63bc0dba959b3b0394ff980b2e4b39ebf669bccdbdc3a9fed31fe27fcb47834d0fb639846ff86bce4592f45b3fcc3a43c07c97e4b2f52c5ea189f34a858ba788301fd1720f44c506fe11be596ed3de1eb2aebb3f08ea5e01e8c47aa0959058215f538c5c58fbc8f43a80019096e8fcf59f83e058acdcdcf0a00bdd6e2f65354f18d20af7451615f29c8791f918c0ea09c688ebdd855e3f84c9cd1cf69673d174c4f965c6db7f682f6a0ab8deb5477158f0b0a8c568d4fe6fb56f266175f3fdbb94a0df9816cec9095a215a2efa154e29acfc31e2211e594a62421aa61cc8516c4e8eb69f781a91bb066faf500821cdba4223cb88d0779bdccb9983a2027ca4b45cdd212eb43643fea6d1ec7620fd8190e9cbf4ef3818301f70fae4890ad353e272e42eb81144c0adc6cc8ad1995d78a3121c6d72efa83faa090fc8c6261e79bd57b63c33c2ac568340bf0417f144918aad9",
+            "createdAt": "2025-09-25T12:32:32.233Z",
+            "updatedAt": "2025-11-02T10:02:21.584Z",
+            "__v": 0,
+            "featured": 3,
+            "lowestLesson": {
+                "_id": "68d8981a41dce1ca3bdd3d11",
+                "price": 30,
+                "duration": 60
+            },
+            "totalLessons": 3
+        }
+    ]
+}

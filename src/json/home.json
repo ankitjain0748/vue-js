@@ -1,0 +1,43 @@
+{
+  "status": true,
+  "message": "Home Find successfully!",
+  "data": {
+    "Faqrecord": [
+      {
+        "_id": "683eb9eb46a460bcb8d0a2ad",
+        "question": "How do I choose the right teacher?",
+        "answer": "You can read each teacher’s profile and description, and watch their introduction video. If you are unsure which teacher would be the best fit, you can contact us for a consultation. We will recommend the teacher who best matches your goals and requirements."
+      },
+      {
+        "_id": "68529c4c06fcf14e220c6c06",
+        "question": "Why all the teachers rates are $28 or more?",
+        "answer": "We believe that $28 is the minimum fair fee at which teachers can provide appropriate services to students..."
+      },    {
+        "_id": "683eb9eb46a460bcb8d0a2ad",
+        "question": "How do I choose the right teacher?",
+        "answer": "You can read each teacher’s profile and description, and watch their introduction video. If you are unsure which teacher would be the best fit, you can contact us for a consultation. We will recommend the teacher who best matches your goals and requirements."
+      },
+      {
+        "_id": "68529c4c06fcf14e220c6c06",
+        "question": "Why all the teachers rates are $28 or more?",
+        "answer": "We believe that $28 is the minimum fair fee at which teachers can provide appropriate services to students..."
+      },    {
+        "_id": "683eb9eb46a460bcb8d0a2ad",
+        "question": "How do I choose the right teacher?",
+        "answer": "You can read each teacher’s profile and description, and watch their introduction video. If you are unsure which teacher would be the best fit, you can contact us for a consultation. We will recommend the teacher who best matches your goals and requirements."
+      },
+      {
+        "_id": "68529c4c06fcf14e220c6c06",
+        "question": "Why all the teachers rates are $28 or more?",
+        "answer": "We believe that $28 is the minimum fair fee at which teachers can provide appropriate services to students..."
+      }
+    ],
+    "record": {
+      "_id": "67ee5e541456079a34d4ff76",
+      "hero_img_first": "https://student-teacher-platform.sgp1.digitaloceanspaces.com/uploads/0f1b31c2-8179-4536-804b-25063d61447e-HomeImage.jpeg",
+      "hero_img_second": "https://student-teacher-platform.sgp1.digitaloceanspaces.com/uploads/11626b0d-2632-481f-8318-2907a640b29a-image2.jpeg",
+      "hero_heading": "Learn from the Best Teachers Anytime, Anywhere!",
+      "best_teacher": "Learn from the hand picked and individually trained Teachers!"
+    }
+  }
+}
