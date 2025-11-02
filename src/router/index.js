@@ -2,6 +2,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../Home/index.vue'
 import Find from '../find/FindT.vue'
+import Become from '../Become/index.vue'
+
 
 const routes = [
   {
@@ -15,6 +17,13 @@ const routes = [
     name: 'FindTeacher', // ✅ Name change karna better hai
     component: Find,
     meta: { title: 'Find Teacher Page' } // ✅ Title update kiya
+  },
+
+   {
+    path: '/become-teacher',
+    name: 'BecomeTeacher', // ✅ Name change karna better hai
+    component: Become,
+    meta: { title: 'Become Teacher Page' } // ✅ Title update kiya
   },
  
   // Catch all route - redirect to home
