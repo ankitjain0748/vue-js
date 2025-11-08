@@ -2,6 +2,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../Home/index.vue'
 import Find from '../find/FindT.vue'
+import Contact from '../Contact/Index.vue'
+import Login from '../Login/Index.vue'
 import Become from '../Become/index.vue'
 
 
@@ -24,6 +26,19 @@ const routes = [
     name: 'BecomeTeacher', // ✅ Name change karna better hai
     component: Become,
     meta: { title: 'Become Teacher Page' } // ✅ Title update kiya
+  },
+ 
+   {
+    path: '/contact-us',
+    name: 'Contact', // ✅ Name change karna better hai
+    component: Contact,
+    meta: { title: 'Contact Page' } // ✅ Title update kiya
+  },
+  {
+    path: '/login',
+    name: 'Login', // ✅ Name change karna better hai
+    component: Login,
+    meta: { title: 'Login Page' } // ✅ Title update kiya
   },
  
   // Catch all route - redirect to home

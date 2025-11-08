@@ -16,7 +16,7 @@
             <li><router-link to="/" class="-tracking-[0.03em] text-base text-[#CC2828] hover:underline">Home</router-link></li>
             <li><router-link to="/find-teacher" class="-tracking-[0.03em] text-base text-[#CC2828] hover:underline">Find a Teacher</router-link></li>
             <li><router-link to="/#howitwork" class="-tracking-[0.03em] text-base text-[#CC2828] hover:underline">How It Works</router-link></li>
-            <li><router-link to="/#faq" class="-tracking-[0.03em] text-base text-[#CC2828] hover:underline">FAQ</router-link></li>
+            <li><router-link to="/contact-us" class="-tracking-[0.03em] text-base text-[#CC2828] hover:underline">Contact Us</router-link></li>
             <li>
               <p class="-tracking-[0.03em] text-base text-[#CC2828] hover:underline">
                 Contact: office@japaneseforme.com
